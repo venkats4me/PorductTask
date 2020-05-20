@@ -1,0 +1,11 @@
+api/getproductdetails=ADMIN,USER
+     
+     USER credentials
+      Admin name=venkat
+     password==12345
+     
+     
+     api/getconfigdetails==ADMIN
+      ADMIN credentials
+     Admin name=venkatbasa
+     password==54321
